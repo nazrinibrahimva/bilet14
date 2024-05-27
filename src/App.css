@@ -1,0 +1,285 @@
+.box{
+  width: 100%;
+  height: 90vh;
+  background-image: url('./bg_2.png');
+  background-size: cover;
+}
+.navbar{
+  width: 100%;
+  height: 20vh;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  gap: 300px;
+}
+.navbar h2{
+  font-weight: 600;
+  color: white;
+  border: 2px solid #fff;
+  line-height: 1;
+  padding: 5px 10px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  color: white;
+}
+.box2{
+  width: 100%;
+  height: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box2 h3{
+  font-family: "Indie Flower", cursive;
+  font-size: 72px;
+  color: #fff;
+  line-height: 1.2;
+  font-weight: 400;
+  margin-left: 300px;
+}
+.box2 button{
+  border-color: rgba(255, 255, 255, 0.8);
+  background: none;
+  border-radius: 0px;
+  border-width: 2px;
+  font-size: 25px;
+  color: white;
+}
+.container{
+  width: 85%;
+  height: 20vh;
+  background-color: #ffb400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 45px;
+  margin-left: 100px;
+}
+.container input{
+  background: transparent !important;
+  color: #404044 !important;
+  border: 1px solid black;
+  font-size: 13px;
+  width: 100%;
+  padding: 20px;
+  width: 120px;
+  color: black;
+}
+.container button{
+  width:50px;
+  margin-left: 20px;
+  background: #fff;
+  border: 2px solid #fff;
+  color: #404044;
+}
+.box3{
+  width: 100%;
+  height: 90vh;
+  background-color: white;
+  display: flex;
+  gap: 70px;
+
+}
+.left{
+  width: 40%;
+  height: 90vh;
+  background-image: url('./about-2 (1).png');
+  background-size: cover;
+  margin-left: 100px;
+}
+.right{
+  width: 30%;
+  height: 70vh;
+  padding: 50px;
+  font-size: 20px;
+}
+.right p{
+  color: rgba(0, 0, 0, 0.356);
+  line-height: 1.5;
+  font-weight: 400;
+}
+.right h2{
+  line-height: 1.5;
+  color: #404044;
+  font-weight: 400;
+  
+}
+h3{
+  line-height: 1.5;
+  color: #404044;
+  font-weight: 400;
+}
+p{
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 300;
+  color: #8b8b92;
+}
+h4{
+  font-size: 30px;
+  color: #404044;
+  line-height: 1.4;
+  font-weight: 5;
+}
+.menu div{
+  box-shadow: 1px 4px 5px 3px rgba(0,0,0,0.75);
+}
+.bir{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.bir_bir{
+  width: 20%;
+  height: 15vh;
+}
+.bir_uc{
+  width: 20%;
+  height: 15vh;
+  font-size: 30px;
+}
+.iki{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.iki_bir{
+  width: 20%;
+  height: 15vh;
+}
+.iki_uc{
+  width: 20%;
+  height: 15vh;
+  font-size: 30px;
+}
+.uc{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.uc_bir{
+  width: 20%;
+  height: 15vh;
+}
+.uc_uc{
+  width: 20%;
+  height: 15vh;
+  font-size: 30px;
+}
+.dord{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.dord_bir{
+  width: 20%;
+  height: 15vh;
+}
+.dord_uc{
+  width: 20%;
+  height: 15vh;
+  font-size: 30px;
+}
+.bes{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.bes_bir{
+  width: 20%;
+  height: 15vh;
+}
+.bes_uc{
+  width: 20%;
+  height: 15vh;
+  font-size: 30px;
+}
+.alti{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.alti_bir{
+  width: 20%;
+  height: 15vh;
+}
+.alti_uc{
+  width: 20%;
+  height: 15vh;
+}
+.yeddi{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.yeddi_bir{
+  width: 20%;
+  height: 15vh;
+}
+.yeddi_uc{
+  width: 20%;
+  height: 15vh;
+}
+
+.sekkiz{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.sekkiz_bir{
+  width: 20%;
+  height: 15vh;
+}
+.sekkiz_uc{
+  width: 20%;
+  height: 15vh;
+}
+.doqquz{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.doqquz_bir{
+  width: 20%;
+  height: 15vh;
+}
+.doqquz_uc{
+  width: 20%;
+  height: 15vh;
+}
+.on{
+  width: 40%;
+  height: 15vh;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+}
+.on_bir{
+  width: 20%;
+  height: 15vh;
+}
+.on_uc{
+  width: 20%;
+  height: 15vh;
+}
